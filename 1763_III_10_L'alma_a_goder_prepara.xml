@@ -7236,12 +7236,8 @@
                      <dynam xml:id="dynam-0000001496479461" place="below" staff="1" tstamp="1" >
                         <rend xml:id="rend-0000002109836916" halign="center">ff</rend>
                      </dynam>
-                     <slur xml:id="slur-0000001849036983" startid="#note-0000001016857378" endid="#note-0000000926270418" curvedir="above" />
-                     <slur xml:id="slur-0000001883612844" startid="#note-0000001201557488" endid="#note-0000001523594112" curvedir="above" />
                      <dynam xml:id="dynam-0000000135325889" place="below" staff="2" tstamp="1" >ff
                      </dynam>
-                     <slur xml:id="slur-0000001911089411" startid="#note-0000001341505562" endid="#note-0000001123302421" curvedir="above" />
-                     <slur xml:id="slur-0000001437467613" startid="#note-0000000812962382" endid="#note-0000001488665308" curvedir="above" />
                      <dynam xml:id="dynam-0000001935279022" place="below" staff="3" tstamp="1" >ff
                      </dynam>
                      <slur xml:id="slur-0000001605897629" startid="#note-0000001798935573" endid="#note-0000000991869994" curvedir="above" />
