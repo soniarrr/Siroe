@@ -13505,6 +13505,7 @@
                       <slur xml:id="slur-0000000497537868" startid="#note-0000001769214678" endid="#note-0000001385904510" curvedir="below" />
                       <tie xml:id="tie-0000001292173982" startid="#note-0000002015634472" endid="#note-0000000720913836" />
                       <slur xml:id="slur-0000000388212991" startid="#note-0000002015634472" endid="#note-0000000282925247" curvedir="above" />
+                      <slur xml:id="slur-0000000388212992" startid="#note-0000000293892180" endid="#note-0000001314877684" curvedir="above" />
                       <tie xml:id="tie-0000001745350286" startid="#note-0000000293892180" endid="#note-0000000544719101" />
                    </measure>
                    <measure xml:id="measure-0000000666550044" n="68">
@@ -14993,7 +14994,9 @@
                       </staff>
                       <staff xml:id="staff-0000000068229327" n="10">
                          <layer xml:id="layer-0000000193028786" n="1">
-                            <note xml:id="note-0000001019607521" dur="4" oct="4" pname="c" stem.dir="down" accid.ges="s" />
+                            <note xml:id="note-0000001019607521" dur="4" oct="4" pname="c" stem.dir="down" accid.ges="s" >
+                              <accid xml:id="accid-0000002141467996" accid="s" />
+                           </note>
                             <note xml:id="note-0000000582969617" dur="8" oct="3" pname="b" stem.dir="down">
                                <verse xml:id="verse-0000000609673917" n="1">
                                   <syl xml:id="syl-0000000404635272" con="s" wordpos="t">te</syl>
