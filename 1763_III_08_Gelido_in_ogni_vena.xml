@@ -5371,6 +5371,8 @@
                                <note xml:id="note-0000000929600172" dur="8" oct="5" pname="d" stem.dir="down">
                                   <artic xml:id="artic-0000000925111725" artic="stacc" place="above" />
                                </note>
+                              </beam>
+                              <beam xml:id="beam-0000001422639146">
                                <note xml:id="note-0000002021387974" dur="8" oct="5" pname="e" stem.dir="down">
                                   <artic xml:id="artic-0000001425914015" artic="stacc" place="above" />
                                </note>
@@ -5542,19 +5544,21 @@
                                   </note>
                                </beam>
                             </tuplet>
-                            <beam xml:id="beam-0000000020312506">
+                            
                                <tuplet xml:id="tuplet-0000001127053251" num="3" numbase="2" num.place="above" bracket.place="above">
                                   <note xml:id="note-0000001615992612" dur="16" oct="3" pname="b" stem.dir="up">
                                      <artic xml:id="artic-0000000419634885" artic="stacc" place="below" />
                                   </note>
+                                  <beam xml:id="beam-0000000020312506">
                                   <note xml:id="note-0000000912335494" dur="16" oct="4" pname="a" stem.dir="up">
                                      <artic xml:id="artic-0000000435736081" artic="stacc" place="below" />
                                   </note>
                                   <note xml:id="note-0000002023513074" dur="16" oct="4" pname="a" stem.dir="up">
                                      <artic xml:id="artic-0000000456588738" artic="stacc" place="below" />
                                   </note>
+                                 </beam>
                                </tuplet>
-                            </beam>
+                           
                             <beam xml:id="beam-0000000991356697">
                                <tuplet xml:id="tuplet-0000000590429864" num="3" numbase="2" num.place="above" bracket.place="above">
                                   <note xml:id="note-0000001218911902" dur="16" oct="4" pname="c" stem.dir="up" accid.ges="s">
@@ -5598,19 +5602,21 @@
                                   </note>
                                </beam>
                             </tuplet>
-                            <beam xml:id="beam-0000001026880012">
+                           
                                <tuplet xml:id="tuplet-0000002041638011" num="3" numbase="2" num.place="above" bracket.place="above">
                                   <note xml:id="note-0000000263841931" dur="16" oct="3" pname="b" stem.dir="up">
                                      <artic xml:id="artic-0000000696970457" artic="stacc" place="below" />
                                   </note>
+                                  <beam xml:id="beam-0000001026880012">
                                   <note xml:id="note-0000001749709127" dur="16" oct="4" pname="a" stem.dir="up">
                                      <artic xml:id="artic-0000000020348447" artic="stacc" place="below" />
                                   </note>
                                   <note xml:id="note-0000000243873219" dur="16" oct="4" pname="a" stem.dir="up">
                                      <artic xml:id="artic-0000000345293846" artic="stacc" place="below" />
                                   </note>
+                                 </beam>
                                </tuplet>
-                            </beam>
+                            
                             <beam xml:id="beam-0000000179623634">
                                <tuplet xml:id="tuplet-0000001996423167" num="3" numbase="2" num.place="above" bracket.place="above">
                                   <note xml:id="note-0000001603379862" dur="16" oct="4" pname="c" stem.dir="up" accid.ges="s">
