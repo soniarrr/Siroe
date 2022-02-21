@@ -2327,6 +2327,7 @@
                      </staff>
                      <slur xml:id="slur-0000000170307962" startid="#note-0000001349968447" endid="#note-0000001594512060" curvedir="above" />
                      <slur xml:id="slur-0000000364409698" startid="#note-0000001694870364" endid="#note-0000001030510160" curvedir="below" />
+                     <slur xml:id="slur-0000000170307963" startid="#note-0000000914659481" endid="#note-0000001792818303" curvedir="below" />
                      <trill xml:id="trill-0000001573142411" staff="6" startid="#note-0000001424102845" place="above" />
                      <slur xml:id="slur-0000000454427099" startid="#note-0000001424102845" endid="#note-0000001438899991" curvedir="above" />
                      <slur xml:id="slur-0000001801147334" startid="#note-0000000658678560" endid="#note-0000000623262098" curvedir="above" />
@@ -3513,7 +3514,7 @@
                      </dynam>
                      <slur xml:id="slur-0000001748807420" startid="#note-0000001840649917" endid="#note-0000001389438740" curvedir="above" />
                      <slur xml:id="slur-0000001773168987" startid="#note-0000000964387588" endid="#note-0000002012044229" curvedir="above" />
-                     <dynam xml:id="dynam-0000002123262238" place="below" staff="4" tstamp="3" >mf
+                     <dynam xml:id="dynam-0000002123262238" place="below" staff="4" tstamp="2" >mf
                      </dynam>
                      <slur xml:id="slur-0000002116262154" startid="#note-0000002031343684" endid="#note-0000001142533362" curvedir="above" />
                      <dynam xml:id="dynam-0000000964514792" place="below" staff="5" tstamp="1" >mf
@@ -3558,9 +3559,7 @@
                                  <note xml:id="note-0000000129027016"  dur="16" oct="5" pname="f" stem.dir="down" />
                               </tuplet>
                            </beam>
-                           <note xml:id="note-0000000059856088"  dur="8" oct="5" pname="a" stem.dir="down">
-                              <artic xml:id="artic-0000000655612822" artic="stacc" place="above" />
-                           </note>
+                           <note xml:id="note-0000000059856088"  dur="8" oct="5" pname="a" stem.dir="down"/>
                            <rest xml:id="rest-0000001231995623"  dur="16" ploc="b" oloc="4" />
                            <note xml:id="note-0000001304998428"  dur="16" oct="4" pname="a" stem.dir="up" />
                         </layer>
@@ -4862,6 +4861,7 @@
                            </beam>
                         </layer>
                      </staff>
+                     <tie xml:id="tie-0000001368947462" startid="#note-0000001315620016" endid="#note-0000000053604845" />
                      <dynam xml:id="dynam-0000001315731037" place="below" staff="4" tstamp="1" >f
                      </dynam>
                      <dynam xml:id="dynam-0000001131999354" place="below" staff="5" tstamp="1" >f
@@ -8596,6 +8596,8 @@
                                  <accid xml:id="accid-0000001924806726" accid="s" />
                               </note>
                               <note xml:id="note-0000000443266208"  dur="16" oct="4" pname="d" stem.dir="up" />
+                           </beam>
+                              <beam xml:id="beam-0000000022894549">
                               <note xml:id="note-0000001801220525" dots="1"  dur="16" oct="4" pname="e" stem.dir="up">
                                  <accid xml:id="accid-0000001266893002" accid="n" />
                               </note>
@@ -8608,12 +8610,12 @@
                            <beam xml:id="beam-0000001198942453">
                               <note xml:id="note-0000000923398703" dots="1"  dur="16" oct="4" pname="d" stem.dir="down" />
                               <note xml:id="note-0000001581506706"  dur="32" oct="4" pname="e" stem.dir="down" accid.ges="f" />
-                           </beam>
-                           <beam xml:id="beam-0000001840548235">
                               <note xml:id="note-0000002086296493" dots="1"  dur="16" oct="4" pname="d" stem.dir="up" />
                               <note xml:id="note-0000000494324760"  dur="32" oct="4" pname="c" stem.dir="up" >
                                  <accid xml:id="accid-0000001924806730" accid="n" />
                               </note> 
+                                 </beam>
+                            <beam xml:id="beam-0000001840548235">
                               <note xml:id="note-0000001010554046" dots="1"  dur="16" oct="3" pname="b" stem.dir="up" accid.ges="f" />
                               <note xml:id="note-0000000362851563"  dur="32" oct="3" pname="a" stem.dir="up" />
                            </beam>
@@ -8634,12 +8636,12 @@
                            <beam xml:id="beam-0000001698434800">
                               <note xml:id="note-0000000215971067" dots="1"  dur="16" oct="3" pname="d" stem.dir="down" />
                               <note xml:id="note-0000001891021131"  dur="32" oct="3" pname="e" stem.dir="down" accid.ges="f" />
-                           </beam>
-                           <beam xml:id="beam-0000000996937577">
                               <note xml:id="note-0000000652408136" dots="1"  dur="16" oct="3" pname="d" stem.dir="up" />
                               <note xml:id="note-0000001405128663"  dur="32" oct="3" pname="c" stem.dir="up" >
                                  <accid xml:id="accid-0000001924806729" accid="n" />
                               </note>
+                                  </beam>
+                           <beam xml:id="beam-0000000996937577">
                               <note xml:id="note-0000000116306196" dots="1"  dur="16" oct="2" pname="b" stem.dir="up" accid.ges="f" />
                               <note xml:id="note-0000000706932763"  dur="32" oct="2" pname="a" stem.dir="up" />
                            </beam>
