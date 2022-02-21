@@ -9421,6 +9421,7 @@
                      <fermata xml:id="fermata-0000000263357406" staff="3" startid="#note-0000000583769019" form="norm" place="above" />
                      <fermata xml:id="fermata-0000001833466930" staff="4" startid="#note-0000000662551219" form="norm" place="above" />
                      <fermata xml:id="fermata-0000000849565112" staff="5" startid="#note-0000000406332755" form="norm" place="above" />
+                     <fermata xml:id="fermata-0000000849565113" staff="6" startid="#note-0000001140424776" form="norm" place="above" />
                      <trill xml:id="trill-0000000146282471" staff="6" startid="#note-0000000949434904" place="above" />
                      <fermata xml:id="fermata-0000000622791407" staff="7" startid="#note-0000001820051306" form="norm" place="above" />
                   </measure>
