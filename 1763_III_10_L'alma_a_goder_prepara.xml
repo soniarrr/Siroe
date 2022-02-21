@@ -2933,7 +2933,6 @@
                            </beam>
                         </layer>
                      </staff>
-                     <slur xml:id="slur-0000000316196519" startid="#note-0000001211806285" endid="#note-0000000565671648" curvedir="above" />
                   </measure>
                   <measure xml:id="measure-0000001415426990" n="38">
                      <staff xml:id="staff-0000001943570194" n="1">
@@ -4604,7 +4603,9 @@
                            <note xml:id="note-0000001618725624"  dur="8" oct="3" pname="f" stem.dir="down" />
                            <beam xml:id="beam-0000000242977376">
                               <note xml:id="note-0000001356162333"  dur="8" oct="3" pname="f" stem.dir="down" />
-                              <note xml:id="note-0000001728506682"  dur="8" oct="3" pname="e" stem.dir="down" accid.ges="f" />
+                              <note xml:id="note-0000001728506682"  dur="8" oct="3" pname="e" stem.dir="down" accid.ges="f" >
+                                 <accid xml:id="accid-0000000415277882" accid="f" />
+                                 </note>
                            </beam>
                         </layer>
                      </staff>
@@ -5206,7 +5207,7 @@
                         <layer xml:id="layer-0000002136663566" n="1">
                            <beam xml:id="beam-0000001322605085">
                               <tuplet xml:id="tuplet-0000000240179539" num="3" numbase="2" num.place="below" bracket.place="below">
-                                 <note xml:id="note-0000000018962427"  dur="16" oct="4" pname="e" stem.dir="down" accid.ges="f">
+                                 <note xml:id="note-0000000018962427"  dur="16" oct="4" pname="g" stem.dir="down" accid.ges="f">
                                     <verse xml:id="verse-0000001845856743" n="1">
                                        <syl xml:id="syl-0000000546783835" con="u" wordpos="t">tar</syl>
                                     </verse>
@@ -5297,7 +5298,9 @@
                            <beam xml:id="beam-0000002093861232">
                               <tuplet xml:id="tuplet-0000000165367425" num="3" numbase="2" num.place="below" bracket.place="below">
                                  <note xml:id="note-0000000963903569"  dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f" />
-                                 <note xml:id="note-0000001939623465"  dur="16" oct="4" pname="a" stem.dir="down" />
+                                 <note xml:id="note-0000001939623465"  dur="16" oct="4" pname="a" stem.dir="down" >
+                                    <accid xml:id="accid-0000001146197460" accid="n" />
+                                 </note>
                                  <note xml:id="note-0000001372925489"  dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f" />
                               </tuplet>
                            </beam>
