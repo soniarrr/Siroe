@@ -8628,7 +8628,7 @@
                               <tuplet xml:id="tuplet-0000000231216256" num="3" numbase="2" num.place="below" bracket.place="below">
                                  <note xml:id="note-0000000250993864" dur="16" oct="5" pname="e" stem.dir="down" accid.ges="f">
                                     <verse xml:id="verse-0000000542400673" n="1">
-                                       <syl xml:id="syl-0000001351734828" con="s" wordpos="t">rò</syl>
+                                       <syl xml:id="syl-0000001351734828" con="u" wordpos="t">rò</syl>
                                     </verse>
                                  </note>
                                  <note xml:id="note-0000000467999382" dur="16" oct="5" pname="d" stem.dir="down" />
@@ -8715,7 +8715,7 @@
                               <beam xml:id="beam-0000002011694817">
                                  <note xml:id="note-0000000187561720" dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f">
                                     <verse xml:id="verse-0000001691821563" n="1">
-                                       <syl xml:id="syl-0000000819773250" con="s">fè,</syl>
+                                       <syl xml:id="syl-0000000819773250" con="u">fè,</syl>
                                     </verse>
                                  </note>
                                  <note xml:id="note-0000001491688826" dur="16" oct="4" pname="g" stem.dir="down" />
