@@ -1364,8 +1364,8 @@
                            <note xml:id="note-0000001327460852" dots="1" dur="4" oct="2" pname="b" stem.dir="up" accid.ges="f" />
                         </layer>
                      </staff>
-                     <dir xml:id="dd4bl1n" place="above" staff="1" tstamp="0.000000">
-                        <rend xml:id="rldv1oo" fontstyle="normal">𝄋</rend>
+                     <dir xml:id="dnlfvj" place="above" staff="1" tstamp="0.000000">
+                        <rend xml:id="rexuirr" fontstyle="normal">𝄋</rend>
                      </dir>
                      <dynam xml:id="dynam-0000001490166640" place="below" staff="3" tstamp="1.000000">p</dynam>
                      <slur xml:id="slur-0000001680698996" startid="#note-0000001453680099" endid="#note-0000001431396194" curvedir="above" />
@@ -1929,7 +1929,7 @@
                            </beam>
                            <note xml:id="note-0000001223734378" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f">
                               <verse xml:id="verse-0000000751165884" n="1">
-                                 <syl xml:id="syl-0000001785083282" con="s" wordpos="t">i:</syl>
+                                 <syl xml:id="syl-0000001785083282" con="s" wordpos="t">i;</syl>
                               </verse>
                            </note>
                            <rest xml:id="rest-0000001665856796" dur="8" />
@@ -4525,7 +4525,7 @@
                               </note>
                               <note xml:id="note-0000000292586791" dur="32" oct="4" pname="g" stem.dir="down" />
                            </beam>
-                           <note xml:id="note-0000000861826537" dur="8" oct="4" pname="g" stem.dir="up">
+                           <note xml:id="note-0000000861826537" dur="8" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="verse-0000001544697179" n="1">
                                  <syl xml:id="syl-0000001776931622" con="s" wordpos="t">i;</syl>
                               </verse>
@@ -8207,7 +8207,7 @@
                            </note>
                            <note xml:id="note-0000001417692198" dur="8" oct="5" pname="c" stem.dir="down">
                               <verse xml:id="verse-0000001962992765" n="1">
-                                 <syl xml:id="syl-0000002131432284" con="s" wordpos="t">di;</syl>
+                                 <syl xml:id="syl-0000002131432284" con="s" wordpos="t">di,</syl>
                               </verse>
                            </note>
                            <rest xml:id="rest-0000001376142995" dur="8" />
