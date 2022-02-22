@@ -2963,7 +2963,7 @@
                          </layer>
                       </staff>
                       <dir xml:id="dts71nl" place="above" staff="1" tstamp="0.000000">
-                         <rend xml:id="reovmnd" fontstyle="normal">𝄋</rend>
+                         <rend xml:id="reovmnd" fontsize="200%" fontstyle="normal">𝄋</rend>
                       </dir>
                       <dynam xml:id="dynam-0000001375985279" place="below" staff="1" tstamp="1.000000">p</dynam>
                       <dynam xml:id="dynam-0000000712598006" place="below" staff="2" tstamp="1.000000">p</dynam>
