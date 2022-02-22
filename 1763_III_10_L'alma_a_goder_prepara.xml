@@ -3698,7 +3698,7 @@
                      <trill xml:id="trill-0000000763182283" staff="4" startid="#note-0000000520521512" place="above" />
                      <dynam xml:id="dynam-0000001025256267" place="below" staff="5" tstamp="1" >f
                      </dynam>
-                     <slur xml:id="slur-0000000968941727" startid="#note-0000000168646496" endid="#note-0000000111174518" curvedir="above" />
+                     <slur xml:id="slur-0000000968941727" startid="#note-0000000168646496" endid="#note-0000000281987015" curvedir="above" />
                      <trill xml:id="trill-0000001103518004" staff="6" startid="#note-0000000928105887" place="above" />
                      <dynam xml:id="dynam-0000001238311709" place="below" staff="7" tstamp="1" >f
                      </dynam>
@@ -6323,7 +6323,7 @@
                               <note xml:id="note-0000001139694512"  dur="8" oct="5" pname="f" stem.dir="down" />
                            </beam>
                            <note xml:id="note-0000000400049070" dur="16" oct="5" pname="f" grace="unknown" stem.dir="up" />
-                           <tuplet xml:id="tuplet-0000000991874552" num="3" numbase="2" num.place="above" bracket.place="above" bracket.visible="true">
+                           <tuplet xml:id="tuplet-0000000991874552" num="3" numbase="2" num.place="below" bracket.place="below" bracket.visible="true">
                               <beam xml:id="beam-0000001122768285">
                                  <note xml:id="note-0000001922715364"  dur="16" oct="5" pname="e" stem.dir="down" accid.ges="f" />
                                  <note xml:id="note-0000001767203741"  dur="16" oct="5" pname="d" stem.dir="down">
@@ -6879,7 +6879,7 @@
                      </staff>
                      <staff xml:id="staff-0000000890630189" n="6">
                         <layer xml:id="layer-0000000870522764" n="1">
-                           <tuplet xml:id="tuplet-0000002126368228" num="3" numbase="2" num.place="above" bracket.place="above" bracket.visible="true">
+                           <tuplet xml:id="tuplet-0000002126368228" num="3" numbase="2" num.place="below" bracket.place="below" bracket.visible="true">
                               <beam xml:id="beam-0000000358921398">
                                  <note xml:id="note-0000000804558777"  dur="16" oct="5" pname="d" stem.dir="down">
                                     <verse xml:id="verse-0000000881698530" n="1">
@@ -6895,7 +6895,7 @@
                                  </verse>
                               </note>
                            </tuplet>
-                           <tuplet xml:id="tuplet-0000000692200665" num="3" numbase="2" num.place="above" bracket.place="above" bracket.visible="true">
+                           <tuplet xml:id="tuplet-0000000692200665" num="3" numbase="2" num.place="below" bracket.place="below" bracket.visible="true">
                               <beam xml:id="beam-0000001955692046">
                                  <note xml:id="note-0000001916526098"  dur="16" oct="5" pname="f" stem.dir="down">
                                     <verse xml:id="verse-0000002139003766" n="1">
@@ -8932,7 +8932,7 @@
                            <beam xml:id="beam-0000001543152154">
                               <tuplet xml:id="tuplet-0000001128321935" num="3" numbase="2" num.place="below" bracket.place="below">
                                  <note xml:id="note-0000000262128873"  dur="16" oct="5" pname="b" stem.dir="down" accid.ges="f" />
-                                 <note xml:id="note-0000001736475704"  dur="16" oct="5" pname="f" stem.dir="down" />
+                                 <note xml:id="note-0000001736475704"  dur="16" oct="5" pname="g" stem.dir="down" />
                                  <note xml:id="note-0000000728285758"  dur="16" oct="5" pname="d" stem.dir="down" />
                               </tuplet>
                            </beam>
